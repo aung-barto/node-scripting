@@ -1,0 +1,15 @@
+{
+  "name": "node-scripting",
+  "version": "1.0.0",
+  "description": "simple node scripting lesson",
+  "main": "app.js",
+  "dependencies": {
+    "superagent": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
