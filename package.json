@@ -4,6 +4,7 @@
   "description": "simple node scripting lesson",
   "main": "app.js",
   "dependencies": {
+    "mkdirp": "^0.5.1",
     "superagent": "^1.4.0"
   },
   "devDependencies": {},
